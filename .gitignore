@@ -1,0 +1,25 @@
+# Entorno virtual
+venv/
+.venv/
+
+# Archivos de Python compilados
+__pycache__/
+*.pyc
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Configuración del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de datos (NO subir bases crudas)
+data/*.xlsx
+data/*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Variables de entorno
+.env
