@@ -14,10 +14,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Archivos de datos (NO subir bases crudas)
-data/*.xlsx
-data/*.csv
-
 # Jupyter
 .ipynb_checkpoints/
 
